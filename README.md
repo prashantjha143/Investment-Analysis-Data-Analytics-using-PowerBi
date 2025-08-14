@@ -13,9 +13,9 @@ Correlation analysis of investment avenues
 
 📂 Files in Repository
 
-Task1.pbix – Power BI dashboard file
+Dashboard.pbix – Power BI dashboard file
 
-Data_set 2.csv – Source dataset
+Data_set.csv – Source dataset
 
 📑 Dataset Description
 
@@ -45,4 +45,5 @@ Connect to the dataset if prompted.
 
 Interact with filters and slicers to explore insights.
 
-📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/212fd705-8e7e-4c08-b998-63df56f624db" />
+
